@@ -1,0 +1,73 @@
+body {
+    background-color: #444654;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-logo {
+    max-width: 300px;
+    height: auto;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    background-color: #28242c;
+    color: white;
+    padding: 20px;
+}
+
+.centered-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.custom-separator {
+    background: url('../img/separador.png') center center no-repeat;
+    background-size: contain;
+    height: 200px;
+    border: none;
+    opacity: 1;
+}
+
+.btn-custom {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
+
+.center-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+  }
+
+  .p-text {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: aliceblue;
+    text-align: justify;
+}
+
+.estilo-personalizado {
+    margin-left: 20px;
+    font-size: 70px;
+    color: orange;
+    font-family: 'Oswald', sans-serif;
+}
+
+.estilo-personalizado2 {
+    margin-left: 20px;
+    font-size: 40px;
+    color: orange;
+    font-family: 'Oswald', sans-serif;
+}

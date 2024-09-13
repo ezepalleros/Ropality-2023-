@@ -1,0 +1,23 @@
+.navbar-title {
+    font-size: 50px;
+    font-family: "Times New Roman", serif;
+    color: coral;
+}
+
+h1 {
+    color:beige;
+}
+
+.container.text-center {
+    text-align: center;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
